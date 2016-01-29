@@ -1,0 +1,31 @@
+{
+	"name": "cubitt-common",
+	"version": "0.5.0",
+	"description": "Module that contains common elements across the cubitt framework.",
+	"main": "dist/cubitt-common.js",
+	"typings": "dist/cubitt-common",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": "uu-cubitt/common",
+	"keywords": [
+		"cubitt",
+		"cubitt-common"
+	],
+	"contributors": [
+		"Thomas Ipskamp",
+		"Sander Klock"
+	],
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/uu-cubitt/common/issues"
+	},
+	"homepage": "https://uu-cubitt.github.io/common/",
+	"devDependencies": {
+		"typescript": "^1.7.5",
+		"typings": "^0.6.2",
+		"typedoc": "^0.3.12"
+	},
+	"dependencies": {
+	}
+}
