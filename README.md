@@ -26,7 +26,7 @@ $ node_modules/.bin/typedoc --out doc/ --module commonjs --target ES5 --mode fil
 
 ## People
 
-The original authors of Cubitt are Sander Klock and Thomas Ipskamp. The project coordinated by [Jan Martijn van der Werf](http://www.uu.nl/staff/JMEMvanderWerf).
+The original authors of Cubitt are Sander Klock and Thomas Ipskamp. The project is coordinated by [Jan Martijn van der Werf](http://www.uu.nl/staff/JMEMvanderWerf).
 
 ## License
 
