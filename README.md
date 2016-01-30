@@ -1,6 +1,9 @@
 # Cubitt Common
 Common Typescript elements for the Cubitt framework.
 
+[![npm version](https://badge.fury.io/js/cubitt-common.svg)](https://badge.fury.io/js/cubitt-common)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/uu-cubitt/common/master/LICENSE)
+
 ## Installation
 
 ```bash
