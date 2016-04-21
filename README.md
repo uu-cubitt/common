@@ -1,3 +1,4 @@
+
 # Cubitt Common
 Common Typescript elements for the Cubitt framework.
 
@@ -12,7 +13,7 @@ A package that provides common components for usage across the cubitt framework.
 
 ## Features
 
-* Generic <string to any> dictionary
+* Generic ```<string to any>``` dictionary
 * RFC4122 v4 compatible GUID implementation
 
 ## Usage
