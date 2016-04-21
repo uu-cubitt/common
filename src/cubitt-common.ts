@@ -1,3 +1,3 @@
 // Export individual classes.
-export {Dictionary} from "./dictionary"
-export * from "./guid"
+export {Dictionary} from "./Dictionary"
+export * from "./Guid"
