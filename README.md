@@ -1,5 +1,5 @@
-
 # Cubitt Common
+
 Common Typescript elements for the Cubitt framework.
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/uu-cubitt/common/master/LICENSE)
