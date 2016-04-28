@@ -89,8 +89,8 @@
 		"trailing-comma": [
 			true,
 			{
-				"multiline": "always",
-				"singleline": "always"
+				"multiline": "never",
+				"singleline": "never"
 			}
 		],
 		"triple-equals": [
@@ -102,7 +102,6 @@
 			"parameter",
 			"arrow-parameter",
 			"property-declaration",
-			"variable-declaration",
 			"member-variable-declaration"
 		],
 		"typedef-whitespace": [
@@ -130,7 +129,8 @@
 		"variable-name": [
 			true,
 			"ban-keywords",
-			"check-format"
+			"check-format",
+			"allow-pascal-case"
 		],
 		"whitespace": [
 			true,
