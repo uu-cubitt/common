@@ -2,6 +2,7 @@
  * Global unique identifiers, RFC4122 v4 compatible.
  */
 export class Guid {
+
 	/**
 	 * Internal string representation of the GUID.
 	 */
@@ -19,6 +20,13 @@ export class Guid {
 	 * Returns the GUID formatted as a string.
 	 */
 	public toString(): string {
+		return this.guid;
+	}
+
+	/**
+	 * Returns the GUID formatted for JSON
+	 */
+	public toJSON(): Object {
 		return this.guid;
 	}
 
