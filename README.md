@@ -31,6 +31,7 @@ import * as Common from "cubitt-common";
 ## Documentation
 
 * [Code documentation](https://uu-cubitt.github.io/common/)
+* [General documentation](https://cubitt.readme.io/)
 
 ## For developers
 

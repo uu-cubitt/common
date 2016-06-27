@@ -1,6 +1,6 @@
 {
 	"name": "cubitt-common",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Module that contains common elements across the cubitt framework.",
 	"main": "./dist/cubitt-common.js",
 	"typings": "./dist/cubitt-common.d.ts",
@@ -40,7 +40,7 @@
 		"istanbul": "^0.4.3",
 		"remap-istanbul": "^0.5.1",
 		"codeclimate-test-reporter": "^0.3.1",
-		"typedoc": "^0.3.12"
+		"typedoc": "^0.4.4"
 	},
 	"dependencies": {
 	}
